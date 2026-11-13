@@ -1,18 +1,34 @@
-## Getting Started
+# SetupInstaller
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto desenvolvido em **Java**, com integração ao **Windows Package Manager (Winget)**, para automatizar a instalação de aplicativos no Windows.
 
-## Folder Structure
+A aplicação surgiu da necessidade de otimizar tarefas repetitivas durante a preparação e configuração de computadores, centralizando a instalação de softwares em uma única ferramenta.
 
-The workspace contains two folders by default, where:
+## 🚀 Funcionalidades
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Nesta primeira versão, o SetupInstaller automatiza a instalação dos seguintes aplicativos:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java 8 (JRE)
+- Google Chrome
+- Discord
+- AnyDesk
+- Google Drive para computador
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🛠️ Tecnologias utilizadas
 
-## Dependency Management
+- **Java** — Desenvolvimento da aplicação e execução dos processos.
+- **Winget** — Gerenciamento e instalação dos aplicativos.
+- **Windows** — Ambiente de execução.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🎯 Objetivo
+
+Aplicar conhecimentos em desenvolvimento Java e automação de processos para simplificar atividades recorrentes do suporte técnico.
+O projeto busca demonstrar como a programação pode ser utilizada para resolver problemas práticos, reduzindo intervenções manuais e padronizando processos.
+
+## 📌 Sobre o projeto
+
+O SetupInstaller é um projeto de automação desenvolvido para fins de aprendizado e aplicação prática de conhecimentos em programação.
+
+## 👨‍💻 Desenvolvedor
+
+Desenvolvido por [devthiagocs](https://github.com/devthiagocs).
