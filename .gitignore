@@ -1,0 +1,13 @@
+# Arquivos compilados
+bin/
+*.class
+
+# Distribuição da aplicação
+dist/
+
+# Arquivos Java gerados
+*.jar
+*.exe
+
+# Configurações locais
+.vscode/
